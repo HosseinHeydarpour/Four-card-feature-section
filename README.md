@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HosseinHeydarpour/Four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://hosseinheydarpour.github.io/Four-card-feature-section/)
+- Solution URL: [solution URL](https://github.com/HosseinHeydarpour/Four-card-feature-section)
+- Live Site URL: [Live site URL](https://hosseinheydarpour.github.io/Four-card-feature-section/)
 
 ## My process
 I leveraged CSS grid to create a responsive layout for the page and the cards. I also used flex-box to align the content within each card. For this challenge, I adopted SASS and BEM to write modular and maintainable code
