@@ -1,0 +1,33 @@
+.heading-primary {
+  color: $color-dark-blue;
+  font-size: 3.2rem;
+  margin-bottom: 1.6rem;
+  &__sub-1 {
+    font-weight: $font-light;
+  }
+  @media only screen and (max-width: $bp-sm) {
+    font-size: 2.8rem;
+  }
+  // &__sub-2 {
+  // }
+}
+
+.heading-secondary {
+  color: $color-dark-blue;
+  margin-bottom: 1rem;
+}
+
+.mb {
+  margin-bottom: 4.2rem;
+}
+
+.text-box {
+  padding: 0 22rem;
+
+  @media only screen and (max-width: $bp-md) {
+    padding: 0 8rem;
+  }
+  @media only screen and (max-width: $bp-md) {
+    padding: 0 4rem;
+  }
+}

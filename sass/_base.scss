@@ -1,0 +1,27 @@
+html {
+  font-size: 62.5%; // (10 / 16) * 100 = 62.5% ~~> setting 1rem to 10px
+  box-sizing: border-box;
+
+  @media only screen and (max-width: $bp-lg) {
+    font-size: 50%;
+  }
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: $font-size-default;
+  font-weight: $font-normal;
+  font-family: $font-family-default;
+  background-color: $color-light-gray;
+}
