@@ -17,7 +17,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 
 ## Overview
-Hello everone 👋🏻 This is my solution to  Four card feature section challenge from front-end mentor. Hope you enjoy it.
+Hello everyone 👋🏻 This is my solution to  Four card feature section challenge from front-end mentor. Hope you enjoy it.
 
 ### The challenge
 
